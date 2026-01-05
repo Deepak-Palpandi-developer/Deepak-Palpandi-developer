@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Angular, .NET, Bootstrap, Postgresql, SQL**
 
-- 📫 How to reach me **deepakpalpandi.developer@gmail.com**
-
 - ⚡ Fun fact **I fell in love with coding.**
 
 <h3 align="left">Connect with me:</h3>
